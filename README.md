@@ -1,0 +1,2 @@
+# stripeGrinderyMockup
+A JavaScript project
